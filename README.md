@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/secure-pipeline/rails-travis-example.svg?branch=master)](https://travis-ci.org/secure-pipeline/rails-travis-example) [![Code Climate](https://codeclimate.com/github/secure-pipeline/rails-travis-example.png)](https://codeclimate.com/github/secure-pipeline/rails-travis-example)
 
-# Rails Travis Example
+# Rails Travis Example Test
 
 ## Overview
 This repo contains a Ruby on Rails Application that is being tested with Travis CI.  Travis CI is running security tests and attacks against the application. This is meant to be an example of how to setup security testing inside your CI environment.
