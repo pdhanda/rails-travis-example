@@ -8,4 +8,5 @@ before_script:
   - bundle exec rake db:migrate
   - bundle exec rails s -d
 script: 
-  - echo "Build Success"
+  - bundle exec rake secure_pipeline:network_attack
+  - bundle exec rake secure_pipeline:ssl_attack
