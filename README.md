@@ -27,7 +27,7 @@ $ bundle exec start_services
 
 The app should be responding on http://localhost:3000
 
-## License
+## License test
 
 This repo and the entire secure-pipeline organization is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
 Triage is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
